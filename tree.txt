@@ -1,0 +1,41 @@
+music
+    scales
+    rhythm
+    sound design
+        reverb
+        delay
+        layering
+    cool music
+        grum
+            deep state radio
+math
+    linear algebra
+        dot product
+        vector spaces
+    statistics
+        distributions
+            bernoulli
+            binomial
+                p(k successes in n trials)
+                cumulative probability - not == number of successes but <, <=, >, >=
+                binomial distribution is frequently used to model the number of successes in a sample of size n drawn with replacement from a population of size N. If the sampling is carried out without replacement, the draws are not independent and so the resulting distribution is a hypergeometric distribution, not a binomial one. However, for N much larger than n, the binomial distribution remains a good approximation, and is widely used.
+            poisson
+        videos
+            Jake Vanderplas - Statistics for Hackers   
+    ai
+        ml
+            frameworks
+                pytorch
+                keras
+            famous models
+                word2vec
+                resnet
+                vgg
+                gpt
+                u-net
+body health
+    yoga
+    walk
+    food
+    schedule
+    sleep
